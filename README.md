@@ -70,6 +70,7 @@ A curated list of awesome JavaFX frameworks, libraries, books and etc... .
 - [Basilisk](https://github.com/basilisk-fw/basilisk) - Desktop/Mobile JavaFX application framework. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 - [JacpFX](http://jacpfx.org/) - An UI application framework based on JavaFX
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala
+- [JRubyFX](https://github.com/jruby/jrubyfx) - JavaFX bindings for JRuby to write JavaFX UIs in the Ruby language
 
 ## Books
 - [JavaFX 8: Introduction by Example](http://www.apress.com/9781430264606) - by [Carl Dea](https://twitter.com/carldea) , [Mark Heckler](https://twitter.com/MkHeck) , [Gerrit Grunwald](https://twitter.com/hansolo_) , [José Pereda](https://twitter.com/JPeredaDnr) , [Sean Phillips](https://twitter.com/SeanMiPhillips)<br/>
@@ -92,6 +93,9 @@ Deliver state-of-the-art applications with visually stunning UIs. Mastering Java
 
 - [Introducing JavaFX 8 Programming](https://www.mhprofessional.com/details.php?isbn=0071842551) - By Herbert Schildt<br/>
 Introducing JavaFX 8 Programming provides a fast-paced, practical introduction to JavaFX, Java's next-generation GUI programming framework. In this easy-to-read guide, best-selling author Herb Schildt presents the key topics and concepts you'll need to start developing modern, dynamic JavaFX GUI applications.
+
+- [JavaFX 8 (in German)](http://dpunkt.de/buecher/11837/9783864901690-javafx-8.html) - By Anton Epple<br/>
+Quick introduction and overview about JavaFX. Target audience are starters in JavaFX and users that want to switch from other frameworks like Swing.
 
 ## Blogs and Sites
 - [FX Experience](http://fxexperience.com/) - FX Experience has been the premiere site for JavaFX code, posts, and insights since mid-2009, and readership continues to grow every month. You should absolutly follow their weekly links.
